@@ -1,0 +1,12 @@
+{
+	"local": {
+		"slackBot": {
+			"webhook": "https://hooks.slack.com/services/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",
+			"channel": "#random",
+			"username": "Winston",
+			"icon_emoji": ":ghost:",
+			"queueDelay": 15000
+		},
+		"port": 36002
+	}
+}

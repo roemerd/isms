@@ -1,0 +1,19 @@
+{
+  "name": "isi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "slack-webhook": "^1.0.0",
+    "winston": "^3.2.1",
+    "winston-slacker": "^1.0.3"
+  }
+}
