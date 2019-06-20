@@ -24,7 +24,7 @@ async function getRandomJoke(person){
 		while(true){
 			const idx = getRandomInt(min, max);
 			joke = jokes[idx];
-			return await webhook.send({text: joke.text, attachments: joke.attachments});
+			return await webhook.send({text: `${(person?joke.tags[0]:'randomism')}: ${joke.text}`, attachments: joke.attachments});
 		}
 	} catch(e) {
 		return JSON.stringify(e);

@@ -129,25 +129,25 @@
 	{
 		"text": "That's a demerit!",
 		"tags": [
-			"abramism"
+			"abramism","Abramism", "abramism", "hrism", "HRism", "H.R.ism"
 		]
 	},
 	{
 		"text": "I'm over it.",
 		"tags": [
-			"abramism"
+			"abramism","Abramism", "abramism", "hrism", "HRism", "H.R.ism"
 		]
 	},
 	{
 		"text": "Maybe if you didn't dab and hit that vape pen so much you would get some work done.",
 		"tags": [
-			"abramism"
+			"abramism","Abramism", "abramism", "hrism", "HRism", "H.R.ism"
 		]
 	},
 	{
 		"text": "It was 23 years ago I should probably get over it.",
 		"tags": [
-			"amandaism"
+			"abramism","Abramism", "abramism", "hrism", "HRism", "H.R.ism"
 		]
 	},
 	{
@@ -184,6 +184,12 @@
 		"text": "Yeet Fam",
 		"tags": [
 			"baileyism"
+		]
+	},
+	{
+		"text": "It was 23 years ago I should probably get over it.",
+		"tags": [
+			"amandaism", "Amandaism"
 		]
 	}
 ]
